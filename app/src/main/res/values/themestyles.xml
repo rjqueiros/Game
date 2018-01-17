@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="m_bg_color">#000000</color>
+
+    <style name="myTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowBackground">@color/m_bg_color</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DarkStyle">
+        <item name="android:textColor">#efefef</item>
+        <item name="android:background">#000000</item>
+    </style>
+    <style name="DarkStyle.LargeText">
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="DarkStyle.SmallText">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="DarkStyle.TitleText">
+        <item name="android:textSize">50sp</item>
+        <item name="android:fontFamily">@font/butcherman"</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+
+
+</resources>
